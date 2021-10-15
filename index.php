@@ -14,13 +14,13 @@
         <section>
 
             <nav class="nav nav-pills flex-column flex-sm-row">
-                <a class="flex-sm-fill text-sm-center nav-link active" aria-current="page" href="index.php">Home</a>
-                <a class="flex-sm-fill text-sm-center nav-link" href="agenda.php">Agenda</a>
+                <a class="flex-sm-fill text-sm-center nav-link active" aria-current="page" href="index.php">Página inicial</a>
+                <a class="flex-sm-fill text-sm-center nav-link" href="agenda.php"> Agenda </a>
 
             </nav>
             <br><br>
             <div class="alert alert-primary" role="alert">
-               Sistema de Controle de Agenda
+               Sistema de Controle de Agenda 
             </div>
 
         </section>
