@@ -28,7 +28,7 @@ $dados = $rs->fetch_object();
             </nav>
             <br><br>
                     <div class="alert alert-primary" role="alert">
-                       Alterar Cadastro de Agenda
+                    <i class="fas fa-save"></i>     Alterar Cadastro de Agenda
                     </div>
 
                     </section>
@@ -50,7 +50,7 @@ $dados = $rs->fetch_object();
                                 <input type="text" name="fone" value="<?php echo $dados->fone ?>" class="form-control" id="exampleInputPassword1">
                             </div>
                            
-                            <button type="submit" class="btn btn-primary">Atualizar Cadastro</button>
+                            <button type="submit" class="btn btn-primary">  <i class="fas fa-save"></i>  Atualizar Cadastro</button>
                         </form>
                     </div>
 

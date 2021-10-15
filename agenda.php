@@ -45,11 +45,11 @@ $lista = $agenda->listar();
             </nav>
             <br><br>
             <div class="alert alert-primary" role="alert">
-               Novo Cadastro
+                 Agenda
             </div>
 
         </section>
-        <h2><a href="cadastro.php" class="btn btn-success" >Cadastrar nova Agenda</a></h2>
+        <h2><a href="cadastro.php" class="btn btn-success" >  <i class="fas fa-save"></i>  Cadastrar nova Agenda</a></h2>
       <table class="table table-striped">
   <thead>
     <tr>

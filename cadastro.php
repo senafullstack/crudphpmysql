@@ -25,7 +25,7 @@ $lista = $agenda->listar();
             </nav>
             <br><br>
                     <div class="alert alert-primary" role="alert">
-                        Cadastrar nova agenda
+                    <i class="fas fa-save"></i>     Cadastrar nova agenda
                     </div>
 
                     </section>
@@ -47,7 +47,7 @@ $lista = $agenda->listar();
                                 <input type="text" name="fone" class="form-control" id="exampleInputPassword1">
                             </div>
                            
-                            <button type="submit" class="btn btn-primary">Cadastrar</button>
+                            <button type="submit" class="btn btn-primary"> <i class="fas fa-save"></i> Cadastrar</button>
                         </form>
                     </div>
 
